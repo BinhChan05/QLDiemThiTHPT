@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/font-asian-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/forms-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.4.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-rups-7.2.5.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/pdfa-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/pdftest-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/ProjectJava.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
